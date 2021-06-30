@@ -1,0 +1,53 @@
+101 = ['Morning_Meds','Read','Cook_Lunch','Eat_Dinner','Eat_Breakfast','Phone','Groom','Wash_Lunch_Dishes','Eat_Lunch','Eat','Cook']
+
+102 = ['Eat_Dinner', 'Bathe', 'Morning_Meds', 'Wash_Lunch_Dishes', 'Eat_Breakfast','Eat','Wash_Dishes','Watch_TV', 'Work_At_Table','Wash_Breakfast_Dishes','Take_Medicine']
+
+103 = ['Morning_Meds', 'Sleep', 'Eat_Lunch','Eat_Dinner', 'Eat_Breakfast', 'Read','Work_At_Table', 'Relax','Cook_Breakfast','Phone','Sleep_Out_Of_Bed']
+
+104 = ['Morning_Meds', 'Wash_Dishes', 'Dress','Cook_Lunch', 'Work_At_Table', 'Eat_Breakfast', 'Phone', 'Groom', 'Wash_Dinner_Dishes', 'Cook_Breakfast', 'Wash_Breakfast_Dishes', 'Sleep_Out_Of_Bed', 'Wash_Lunch_Dishes', 'Take_Medicine', 'Entertain_Guests', 'Eat_Dinner']
+
+105 = ['Eat_Dinner', 'Eat_Breakfast', 'Cook_Breakfast', 'Eat_Lunch', 'Groom', 'Wash_Dishes', 'Evening_Meds', 'Wash_Breakfast_Dishes','Wash_Lunch_Dishes','Wash_Dinner_Dishes']
+
+106 = ['Wash_Dinner_Dishes', 'Work_At_Table','Eat_Dinner', 'Wash_Dishes', 'Eat_Breakfast', 'Eat_Lunch', 'Wash_Lunch_Dishes', 'Cook_Lunch','Work', 'Cook', 'Entertain_Guests', 'Relax', 'Eat', 'Groom', 'Evening_Meds' ]
+
+108 = ['Wash_Lunch_Dishes','Read', 'Morning_Meds', 'Entertain_Guests', 'Cook', 'Eat', 'Eat_Dinner', 'Wash_Dishes', 'Evening_Meds', 'Eat_Lunch', 'Eat_Breakfast','Groom']
+
+109 = ['Eat_Lunch', 'Evening_Meds', 'Cook', 'Read', 'Bathe', 'Eat_Breakfast', 'Eat_Dinner', 'Wash_Breakfast_Dishes', 'Relax', 'Eat', 'Take_Medicine', 'Entertain_Guests', 'Work', 'Wash_Dishes', 'Groom', 'Phone']
+
+110 = ['Dress', 'Eat_Dinner', 'Eat_Breakfast', 'Sleep_Out_Of_Bed', 'Cook_Dinner', 'Drink', 'Wash_Dinner_Dishes']
+
+111 = ['Wash_Dishes','Wash_Dinner_Dishes','Cook_Breakfast','Morning_Meds','Work_At_Desk','Eat_Breakfast','Evening_Meds','Eat_Dinner','Phone','Work_At_Table','Wash_Lunch_Dishes','Eat_Lunch','Cook','Groom','Work','Eat']
+
+112 = ['Read','Work_At_Table','Cook_Lunch','Wash_Dinner_Dishes','Cook','Relax','Wash_Breakfast_Dishes','Wash_Dishes','Eat_Lunch','Eat','Eat_Breakfast','Eat_Dinner','Entertain_Guests','Morning_Meds','Wash_Lunch_Dishes']
+
+113 = ['Read', 'Entertain_Guests', 'Eat_Lunch','Cook_Dinner','Wash_Lunch_Dishes','Cook_Lunch','Eat_Dinner','Watch_TV','Eat','Eat_Breakfast', 'Wash_Dinner_Dishes','Cook','Work','Sleep_Out_Of_Bed']
+
+114 = ['Eat_Breakfast', 'Relax', 'Cook_Lunch', 'Eat_Lunch', 'Eat_Dinner', 'Wash_Lunch_Dishes', 'Take_Medicine', 'Bathe', 'Step_Out']
+
+116 = ['Eat_Breakfast', 'Bathe', 'Take_Medicine', 'Phone', 'Cook_Breakfast', 'Morning_Meds', 'Work_On_Computer', 'Eat_Lunch', 'Eat_Dinner', 'Work_At_Table', 'Watch_TV', 'Eat', 'Relax', 'Read,'Groom']
+
+117 = ['Morning_Meds', 'Cook_Breakfast', 'Cook', 'Eat', 'Bathe', 'Wash_Lunch_Dishes', 'Work', 'Evening_Meds', 'Phone', 'Sleep_Out_Of_Bed', 'Groom', 'Relax', 'Wash_Breakfast_Dishes', 'Work_At_Table', 'Eat_Breakfast']
+
+118 = ['Eat_Breakfast', 'Watch_TV', 'Dress', 'Phone', 'Cook_Breakfast', 'Enter_Home', 'Leave_Home', 'Sleep', 'Housekeeping', 'Groom', 'Wash_Dishes']
+
+119 = ['Entertain_Guests', 'Work_At_Table', 'Phone', 'Wash_Dishes', 'Evening_Meds', 'Morning_Meds', 'Eat_Dinner', 'Sleep_Out_Of_Bed', 'Read','Step_Out']
+
+120 = ['Eat_Breakfast', 'Read', 'Eat', 'Work_At_Table', 'Eat_Lunch', 'Cook', 'Sleep_Out_Of_Bed', 'Cook_Breakfast', 'Cook_Dinner', 'Phone', 'Eat_Dinner', 'Wash_Dinner_Dishes', 'Relax', 'Wash_Breakfast_Dishes', 'Cook_Lunch', 'Groom', 'Wash_Lunch_Dishes']
+
+122 = ['Work', 'Relax', 'Read', 'Phone', 'Cook_Dinner', 'Entertain_Guests', 'Wash_Lunch_Dishes', 'Wash_Dishes', 'Eat', 'Cook_Breakfast', 'Eat_Dinner', 'Bathe', 'Work_At_Table', 'Cook_Lunch', 'Cook']
+
+123 = ['Wash_Lunch_Dishes', 'Cook_Lunch', 'Eat_Dinner', 'Eat_Lunch', 'Wash_Breakfast_Dishes', 'Cook', 'Relax', 'Entertain_Guests']
+
+124 = ['Personal_Hygiene', 'Work', 'Dress', 'Wash_Breakfast_Dishes', 'Wash_Dishes', 'Work_On_Computer', 'Cook_Dinner', 'Sleep', 'Work_At_Table', 'Eat_Dinner']
+
+125 = ['Morning_Meds', 'Step_Out', 'Cook_Breakfast', 'Work', 'Relax', 'Take_Medicine', 'Read', 'Eat_Dinner', 'Phone', 'Sleep', 'Entertain_Guests', 'Cook', 'Bathe', 'Eat_Breakfast', 'Wash_Lunch_Dishes', 'Eat']
+
+126 = ['Step_Out', 'Cook_Lunch', 'Phone', 'Wash_Dishes', 'Wash_Lunch_Dishes', 'Wash_Dinner_Dishes', 'Morning_Meds', 'Eat_Dinner', 'Eat_Breakfast', 'Wash_Breakfast_Dishes', 'Relax', 'Eat_Lunch', 'Sleep_Out_Of_Bed']
+
+127 = ['Wash_Dishes', 'Bathe', 'Step_Out', 'Eat_Lunch', 'Sleep_Out_Of_Bed', 'Work_At_Table', 'Eat_Breakfast','Eat']
+
+128 = ['Evening_Meds', 'Cook', 'Eat_Breakfast', 'Take_Medicine', 'Entertain_Guests', 'Eat_Dinner', 'Groom', 'Wash_Lunch_Dishes', 'Eat', 'Eat_Lunch', 'Cook_Lunch','Step_Out']
+
+129 = ['Eat_Dinner', 'Cook', 'Wash_Dinner_Dishes', 'Step_Out', 'Wash_Lunch_Dishes', 'Sleep_Out_Of_Bed', 'Wash_Dishes', 'Evening_Meds', 'Eat_Lunch', 'Relax', 'Eat', 'Work_At_Desk', 'Phone']
+
+130 = ['Cook_Lunch', 'Work_At_Table', 'Bathe', 'Wash_Dishes', 'Step_Out', 'Cook', 'Work', 'Eat_Lunch', 'Eat']
