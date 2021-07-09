@@ -8,7 +8,6 @@ import pandas as pd
 
 
 case=['HH122']
-case2=['hh122']
 
 name_db="casas"
 username_db="postgres"
@@ -154,7 +153,7 @@ def activity_times(activities,considerd_hour):
 
 for w in range(len(case)):
     house=case[w]
-    house2=case2[w]
+    house2=house.lower()
     print("Casa ", house)
     file_csv=open("feature_vector"+house+".csv","w",newline="")
 
