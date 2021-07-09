@@ -27,7 +27,7 @@ def main():
     name_feature_vector = "feature_vector"
 
     case=['HH101','HH102','HH103','HH104','HH105','HH106','HH108','HH109','HH110','HH111','HH112','HH113','HH114','HH116','HH117','HH118','HH119','HH120','HH122','HH123','HH124','HH125','HH126','HH127','HH128','HH129','HH130']
-    case=['HH130']
+
     alg = ["weka.classifiers.meta.Bagging", "weka.classifiers.meta.RandomSubSpace", "weka.classifiers.trees.J48","weka.classifiers.meta.LogitBoost"]
 
     for i in alg:
