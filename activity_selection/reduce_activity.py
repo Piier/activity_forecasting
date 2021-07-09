@@ -35,7 +35,7 @@ a129 = ['Eat_Dinner', 'Cook', 'Wash_Dinner_Dishes', 'Step_Out', 'Wash_Lunch_Dish
 a130 = ['Cook_Lunch', 'Work_At_Table', 'Bathe', 'Wash_Dishes', 'Step_Out', 'Cook', 'Work', 'Eat_Lunch', 'Eat']
 
 case=['HH130']
-case2=['hh130']
+
 
 attivita_sbagliate=a130
 
@@ -91,7 +91,7 @@ pezzo_query+=')'
 w=0
 
 house=case[w]
-house2=case2[w]
+house2=house.lower()
 print("Casa ", house)
 
 dataset=createDataset("formatted"+house2+".txt")#Creo il dataset
